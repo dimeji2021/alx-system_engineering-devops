@@ -1,1 +1,1 @@
-The very basic of shell navigation
+The very basic of shell navigations
